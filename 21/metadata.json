@@ -1,6 +1,0 @@
-{
-  "name": "QuizEngine",
-  "description": "A real-time, interactive quiz platform for educators and students, featuring live leaderboards and fast-paced gameplay.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
